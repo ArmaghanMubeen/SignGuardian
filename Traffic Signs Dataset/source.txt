@@ -1,6 +1,6 @@
 We are excited to offer you the opportunity to access our comprehensive and diverse traffic sign dataset, which includes real-time data and covers a wide range of traffic sign types. Whether you're working on research, developing machine learning algorithms, or simply interested in traffic sign recognition, our dataset may be a valuable resource for your project.
 
-To request access to our dataset, please don't hesitate to reach out to us at 'armaghanbutt50@gmail.com'. We'd be delighted to provide you with more information and discuss how our dataset can support your goals.
+To request more access to our dataset, please don't hesitate to reach out to us at 'armaghanbutt50@gmail.com'. We'd be delighted to provide you with more information and discuss how our dataset can support your goals.
 
 Our traffic sign dataset is designed to be a valuable resource for a variety of applications, and we're committed to facilitating access for individuals and organizations interested in utilizing it.
 
